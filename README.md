@@ -17,11 +17,21 @@ To match the input image with the machine learning model that has been created u
 
 **Paddy Model Accuracy :**
  <br />
-Train Accuracy = 0.9903
+Train Accuracy = 0.9828
  <br />
-Validation Accuracy = 0.9948
+Validation Accuracy = 0.9521
  <br />
 <br />
  
 ![image](https://user-images.githubusercontent.com/65142818/173174576-47df1433-8f86-45f9-a7d6-609bba16b495.png)
+<br />
 
+**Corn Model Accuracy :**
+ <br />
+Train Accuracy = 0.9828
+ <br />
+Validation Accuracy = 0.9521
+ <br />
+<br />
+![image](https://user-images.githubusercontent.com/65142818/173238906-100b33f8-cbe4-43f1-b3e4-efccaf2d59cf.png)
+<br />
