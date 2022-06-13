@@ -1,6 +1,6 @@
 # farmer-nusantara-machine-learning
 
-**Goals :**
+**Overview :**
 <br />
 For this stage, machine learning has built 3 kinds of image classification models, one model is representative of one food plant, there are Paddy, Corn, and Soy Bean. We use a public dataset from the Kaggle platform for that classification. Paddy has 10 classes, corn 4 classes, and 3 classes for soybean. Those 3 datasets include the health plant conditions class
 <br />
