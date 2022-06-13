@@ -44,3 +44,8 @@ Validation Accuracy = 0.9717
  <br />
 <br />
 ![image](https://user-images.githubusercontent.com/65142818/173264958-365b854a-4bfb-4a83-90e2-b25036304b39.png)
+
+## Prerequisites to Replicate
+1. [Google Colab](https://colab.research.google.com/)
+2. Kaggle API Token → [Generate](https://github.com/Kaggle/kaggle-api#api-credentials)
+3. Latest version of Tensorflow 2.8.2 (or you can update again by rerunning .ipynb and updating models)
