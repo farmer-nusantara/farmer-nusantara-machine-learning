@@ -35,3 +35,12 @@ Validation Accuracy = 0.9521
 <br />
 ![image](https://user-images.githubusercontent.com/65142818/173238906-100b33f8-cbe4-43f1-b3e4-efccaf2d59cf.png)
 <br />
+
+**Soybean Model Best Accuracy :**
+ <br />
+Train Accuracy = 0.9977
+ <br />
+Validation Accuracy = 0.9717
+ <br />
+<br />
+![image](https://user-images.githubusercontent.com/65142818/173264958-365b854a-4bfb-4a83-90e2-b25036304b39.png)
